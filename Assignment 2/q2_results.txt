@@ -1,0 +1,54 @@
+--------------- Start of Part 2 -------------------
+
+
+Accuracy using Linear Kernel: 0.9333333333333333
+Accuracy using Quadratic Kernel: 0.8333333333333334
+Accuracy using Radial Basis Kernel: 0.8666666666666667
+
+
+--------------- End of Part 2 -------------------
+
+
+--------------- Start of Part 3 -------------------
+
+
+Accuracy with 1 hidden layer with 16 nodes 0.8333333333333334
+Accuracy with 2 hidden layer with 256 and 16 nodes 0.8666666666666667
+The best accuracy model is with  2 layers
+
+
+--------------- End of Part 3 -------------------
+
+
+--------------- Start of Part 4 -------------------
+
+
+Accuracy with learning rate as 0.100000 using 2 hidden layer is 0.8666666666666667
+Accuracy with learning rate as 0.010000 using 2 hidden layer is 0.8666666666666667
+Accuracy with learning rate as 0.001000 using 2 hidden layer is 0.9
+Accuracy with learning rate as 0.000100 using 2 hidden layer is 0.8333333333333334
+Accuracy with learning rate as 0.000010 using 2 hidden layer is 0.7
+
+
+--------------- End of Part 4 -------------------
+
+
+--------------- Start of Part 5 -------------------
+
+
+The best set of features are  Index(['Petal_Width'], dtype='object')
+Accuracy with the above features is 0.6666666666666666
+
+
+--------------- End of Part 5 -------------------
+
+
+--------------- Start of Part 6 -------------------
+
+
+Accuracy using ensemble learning with the models  SVM Quadratic , SVM Radial Basis , MLP with 2 hidden layers is 0.8666666666666667
+
+
+--------------- End of Part 6 -------------------
+
+

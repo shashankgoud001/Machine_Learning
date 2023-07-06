@@ -1,0 +1,6 @@
+The final set of features after dropping the outliers in each column are 
+Index(['age', 'gender', 'tot_bilirubin', 'direct_bilirubin', 'tot_proteins',
+       'albumin', 'ag_ratio', 'sgpt', 'sgot', 'alkphos', 'is_patient'],
+      dtype='object')
+Accuracy using 5-fold cross validation :  0.6783625730994152
+Accuracy using Laplacian Classifier :  0.7485380116959064
